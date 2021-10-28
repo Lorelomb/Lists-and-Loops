@@ -1,4 +1,4 @@
-# #Exercise 1
+#Exercise 1
 # wordList = ['mix', 'xyz', 'apple', 'xanadu',"rovio"]
 # # xwordList = []
 # # noxwordList = []
@@ -28,7 +28,7 @@
 #     if len(item) >= 2 and item[0] == item[-1]:
 #         print(item)
 
-# # Excercise 3
+#Excercise 3
 # password = "password"
 #
 # count = 3
@@ -43,3 +43,5 @@
 #     else:
 #         print("You lost,access to terminal denied")
 #         break
+
+
